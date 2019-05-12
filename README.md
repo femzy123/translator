@@ -1,6 +1,7 @@
 # translator
 
 > A simple word translator
+I built a word translator using Vue.js and Yandex Translator Api, you can add more languages
 
 ## Build Setup
 
